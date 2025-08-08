@@ -1,5 +1,5 @@
-# hi I'm cyan
-## 🦀 enthusiastic rust baby
+# -=| hi I'm **cyan** |=-
+## 🦀 rust baby
 ## 🪶 hawk lua
 ## 👍 C# is a language
 ## 🐍 recovering pythonista
