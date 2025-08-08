@@ -1,8 +1,8 @@
-# -=| hi I'm **cyan** |=-
-## 🦀 rust baby
-## 🪶 hawk lua
-## 👍 C# is a language
-## 🐍 recovering pythonista
+## -=| hi I'm **cyan** |=-
+- 🦀 rust baby
+- 🪶 hawk lua
+- 👍 C# is a language
+- 🐍 recovering pythonista
 
 <!--
 **the-color-cyan/the-color-cyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
