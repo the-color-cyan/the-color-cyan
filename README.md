@@ -1,4 +1,4 @@
-## -=| hi I'm **cyan** |=-
+## | hi I'm **cyan** |
 - 🦀 rust baby
 - 🪶 hawk lua
 - 👍 C# is a language
