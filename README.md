@@ -1,5 +1,5 @@
 ## | hi I'm **cyan** |
-- 🦀 rust baby
+- 🦀 rust baybee
 - 🪶 hawk lua
 - 👍 C# is a language
 - 🐍 recovering pythonista
