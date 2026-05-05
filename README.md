@@ -1,9 +1,7 @@
 ## | hi I'm **cyan** |
-- 🦀 rust baybee
-- 🪶 hawk lua
-- 👍 C# is a language
-- 🐍 recovering pythonista
-- 🫥 too many config files
+
+langs: Rust, TypeScript, Python, Lua, C#
+learning: Go, Haskell, Zig
 
 <!--
 **the-color-cyan/the-color-cyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
