@@ -1,6 +1,7 @@
 ## | hi I'm **cyan** |
 
 langs: Rust, TypeScript, Python, Lua, C#
+
 learning: Go, Haskell, Zig
 
 <!--
